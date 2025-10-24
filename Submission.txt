@@ -1,0 +1,5 @@
+Name: Poojal Katiyar
+Email: poojalkatiyar13@gmail.com/poojalk22@iitk.ac.in
+Language & version: Python 3.11.7
+RAM: 16 GB
+Windows 11, 12th Gen Intel R-i7
